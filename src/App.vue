@@ -7,7 +7,7 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World"
+      value: "World, after changed the distributable directory"
     };
   }
 };
